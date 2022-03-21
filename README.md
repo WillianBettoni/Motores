@@ -1,5 +1,5 @@
 # Espeficicação de motores elétricos trifásicos
-Aplicação para Windows que calcula qual motor elétrico deve ser utilizado para determinada espeficicação  
+Aplicação para Windows que calcula qual motor elétrico deve ser utilizado para determinada especificação  
 
 **Técnologias utilizadas:**  
 * Delphi 10.4
